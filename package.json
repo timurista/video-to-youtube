@@ -1,0 +1,22 @@
+{
+  "name": "video-to-youtube",
+  "version": "1.0.0",
+  "description": "makes video from images and exports to youtube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timurista/video-to-youtube.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timurista/video-to-youtube/issues"
+  },
+  "homepage": "https://github.com/timurista/video-to-youtube#readme",
+  "dependencies": {
+    "videoshow": "^0.1.11"
+  }
+}
